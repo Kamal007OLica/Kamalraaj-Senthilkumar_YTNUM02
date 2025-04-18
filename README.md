@@ -18,18 +18,18 @@ A frictionless multi-device handoff system for YouTube, enabling instant video t
 <img width="5112" alt="How the Design   UX Flows solves Problem" src="https://github.com/user-attachments/assets/6963c8ff-b683-4522-96ac-4c246f726b99" />
 
  
-Snap of the Components 
+#Components snapshots
 ![image](https://github.com/user-attachments/assets/c8fe3d57-85b2-4263-9916-66b4e3e37361)
 
 
 <img width="Fixed" alt="Design Forge UX Flow" src="https://github.com/user-attachments/assets/ee5a4958-6fe0-4837-866d-b3cfc0f6afd0" />
 
-Active Transition Design  <br>
+#Active Transition Design  <br>
 ![image](https://github.com/user-attachments/assets/641def2a-de1a-4ac7-a8c3-89b13aeb8f57)
  
 
 <img width="4256" alt="Passive Transitions" src="https://github.com/user-attachments/assets/71e8cc03-6d43-4e44-88a0-2b20b6f33c17" />  <br>
-Passive Transition Design
+#Passive Transition Design
  <br>
 ![image](https://github.com/user-attachments/assets/23e73258-980a-4914-9428-23ca1e884ddb)
 
